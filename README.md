@@ -11,7 +11,7 @@
 # Basic II:
 
 - [x] 8. [Robot simulator](robot-simulator) (structs) - Medium
-- [ ] 9. [List Ops](list-ops) (enumeration) - Medium
+- [x] 9. [List Ops](list-ops) (enumeration) - Medium
 - [ ] 10. [Bank Account](bank-account) (OTP) - Medium
 
 # Optional Bonus challenges:

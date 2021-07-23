@@ -10,7 +10,7 @@
 
 # Basic II:
 
-- [ ] 8. [Robot simulator](robot-simulator) (structs) - Medium
+- [x] 8. [Robot simulator](robot-simulator) (structs) - Medium
 - [ ] 9. [List Ops](list-ops) (enumeration) - Medium
 - [ ] 10. [Bank Account](bank-account) (OTP) - Medium
 

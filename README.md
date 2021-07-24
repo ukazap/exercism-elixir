@@ -1,4 +1,4 @@
-# Basics I:
+# Basic I:
 
 - [x] 1. [Word count](word-count) (Map reduce) - Easy
 - [x] 2. [Roman Numerals](roman-numerals) (Pattern matching) - Easy

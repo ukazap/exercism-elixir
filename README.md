@@ -12,12 +12,6 @@
 
 - [x] 8. [Robot simulator](robot-simulator) (structs) - Medium
 - [x] 9. [List Ops](list-ops) (enumeration) - Medium
-- [ ] 10. [Bank Account](bank-account) (OTP) - Medium
+- [x] 10. [Bank Account](bank-account) (OTP) - Medium
 
-# Optional Bonus challenges:
-
-- [ ] 11. [RNA transcription](rna-transcription) (Strings) - Easy
-- [ ] 12. [Flatten Array](flatten-array) (Lists) - Easy
-- [ ] 13. [Gigasecond](gigasecond) (Time handling) - Easy
-- [ ] 14. [Markdown](markdown) (Refactoring) - Medium
-- [ ] 15. [Clock](clock) (Integer logic) - Medium
+Published solutions on exercism.io: <https://exercism.io/profiles/ukazap>
